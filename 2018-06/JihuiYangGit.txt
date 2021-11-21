@@ -71,7 +71,17 @@
         * git tag -d tagname
     * delete a reomote tag
         * git push origin :refs/tags/tagname
-
+git add ccc
+将这个文件提交到暂存区
+git status 
+查看这个仓库的状态
+git commit -m "修改了一下备注"
+将这个为件添加了备注放到待提交区域
+git pull origin 后面加分支名称
+git push origin 后面加你自己创建的分支名称
+git branch 后面加你自己创建的分支名称
+git branch 查看分支名称
+git checkout -b 修改分支名称并命名新的分支名称
 
 
 
